@@ -1,0 +1,7 @@
+#surefire_0
+#Sun Sep 19 13:03:21 ICT 2021
+surefire.suiteXmlFiles=APISuite.xml
+user.dir=C\:\\Users\\adlan.rochman\\eclipse-workspace\\august2021
+env=prod
+localRepository=C\:\\Users\\adlan.rochman\\.m2\\repository
+basedir=C\:\\Users\\adlan.rochman\\eclipse-workspace\\august2021
